@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla Periodica</title>
+    <link rel="stylesheet" href="Css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+    <!--
+        Codigo By: Geovas or MartL7.
+        Ira Nomaaaas <3
+    -->
+</head>
+<body>
+    <h1 id="Titulo"> Tabla Periodica Version Web </h1>
+    <div class="contenedor-boton">
+        <button onclick="VerTabla()" class="Button" id="VerTabla"> Ver Tabla Periodica </button>
+    </div>
+
+    <div class="tabla" id="Tabla">
+    </div>
+
+    <div class="contenedor-boton">
+        <button onclick="EnviarElemento()" class="Button" id="Buscar"> Buscar Elemento </button> <br>
+        <button onclick="Regresar()" class="Button" id="BotonRegresar"> Regresar </button>
+        <button onclick="Siu()" class="Button" id="BotonSiu"> SIUUUUUUU </button>
+    </div>
+
+    <div class="contenedor">
+        <div id="resultado" class="cua">
+            <p id="res"></p>    
+            <button id="BotonCerrar" class="Button">Cerrar</button>
+        </div>
+    </div>
+
+    <div class="Buscar">
+        <div class="Contenedor-Buscar">
+            <span class="close" onclick="CerrarBuscar()">&times;</span><br>
+            <h2> ¿Que elemento deseas Buscar? (Simbolo) </h2>
+            <input type="text" id="InputElemento">
+            <div class="Con-Bbuscar">
+                <button class="Button" id="BotonBuscar"> Buscar </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="Redes">
+        <a href="https://github.com/MartL7" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="https://www.instagram.com/geovx_lg/" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://wa.me/527761029302" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    </div>
+
+    <div class="contenedor-siu">
+        <div id="siu" class="siu"></div>
+    </div>
+
+    <script src="Js/app.js"></script>
+</body>
+</html>

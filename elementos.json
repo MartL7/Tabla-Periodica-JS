@@ -1,0 +1,898 @@
+{
+    "H": {
+        "nombre": "Hidrógeno",
+        "simbolo": "H",
+        "numeroAtomico": 1,
+        "pesoAtomico": 1.008, 
+        "grupo": "No metal",
+        "periodo": 1
+    },
+    "He": {
+        "nombre": "Helio",
+        "simbolo": "He",
+        "numeroAtomico": 2,
+        "pesoAtomico": 4.0026,
+        "grupo": "Gas noble",
+        "periodo": 1
+    },
+    "Li": {
+        "nombre": "Litio",
+        "simbolo": "Li",
+        "numeroAtomico": 3,
+        "pesoAtomico": 6.94,
+        "grupo": "Metal alcalino",
+        "periodo": 2
+    },
+    "Be": {
+        "nombre": "Berilio",
+        "simbolo": "Be",
+        "numeroAtomico": 4,
+        "pesoAtomico": 9.0122,
+        "grupo": "Metal alcalinotérreo",
+        "periodo": 2
+    },
+    "B": {
+        "nombre": "Boro",
+        "simbolo": "B",
+        "numeroAtomico": 5,
+        "pesoAtomico": 10.81,
+        "grupo": "Metal metaloide",
+        "periodo": 2
+    },
+    "C": {
+        "nombre": "Carbono",
+        "simbolo": "C",
+        "numeroAtomico": 6,
+        "pesoAtomico": 12.011,
+        "grupo": "No metal",
+        "periodo": 2
+    },
+    "N": {
+        "nombre": "Nitrógeno",
+        "simbolo": "N",
+        "numeroAtomico": 7,
+        "pesoAtomico": 14.007,
+        "grupo": "No metal",
+        "periodo": 2
+    },
+    "O": {
+        "nombre": "Oxígeno",
+        "simbolo": "O",
+        "numeroAtomico": 8,
+        "pesoAtomico": 15.999,
+        "grupo": "No metal",
+        "periodo": 2
+    },
+    "F": {
+        "nombre": "Flúor",
+        "simbolo": "F",
+        "numeroAtomico": 9,
+        "pesoAtomico": 18.998,
+        "grupo": "Halógeno",
+        "periodo": 2
+    },
+    "Ne": {
+        "nombre": "Neón",
+        "simbolo": "Ne",
+        "numeroAtomico": 10,
+        "pesoAtomico": 20.180,
+        "grupo": "Gas noble",
+        "periodo": 2
+    },
+    "Na": {
+        "nombre": "Sodio",
+        "simbolo": "Na",
+        "numeroAtomico": 11,
+        "pesoAtomico": 22.990,
+        "grupo": "Metal alcalino",
+        "periodo": 3
+    },
+    "Mg": {
+        "nombre": "Magnesio",
+        "simbolo": "Mg",
+        "numeroAtomico": 12,
+        "pesoAtomico": 24.305,
+        "grupo": "Metal alcalinotérreo",
+        "periodo": 3
+    },
+    "Al": {
+        "nombre": "Aluminio",
+        "simbolo": "Al",
+        "numeroAtomico": 13,
+        "pesoAtomico": 26.982,
+        "grupo": "Metal",
+        "periodo": 3
+    },
+    "Si": {
+        "nombre": "Silicio",
+        "simbolo": "Si",
+        "numeroAtomico": 14,
+        "pesoAtomico": 28.085,
+        "grupo": "Metal metaloide",
+        "periodo": 3
+    },
+    "P": {
+        "nombre": "Fósforo",
+        "simbolo": "P",
+        "numeroAtomico": 15,
+        "pesoAtomico": 30.974,
+        "grupo": "No metal",
+        "periodo": 3
+    },
+    "S": {
+        "nombre": "Azufre",
+        "simbolo": "S",
+        "numeroAtomico": 16,
+        "pesoAtomico": 32.06,
+        "grupo": "No metal",
+        "periodo": 3
+    },
+    "Cl": {
+        "nombre": "Cloro",
+        "simbolo": "Cl",
+        "numeroAtomico": 17,
+        "pesoAtomico": 35.453,
+        "grupo": "Halógeno",
+        "periodo": 3
+    },
+    "Ar": {
+        "nombre": "Argón",
+        "simbolo": "Ar",
+        "numeroAtomico": 18,
+        "pesoAtomico": 39.948,
+        "grupo": "Gas noble",
+        "periodo": 3
+    },
+    "K": {
+        "nombre": "Potasio",
+        "simbolo": "K",
+        "numeroAtomico": 19,
+        "pesoAtomico": 39.098,
+        "grupo": "Metal alcalino",
+        "periodo": 4
+    },
+    "Ca": {
+        "nombre": "Calcio",
+        "simbolo": "Ca",
+        "numeroAtomico": 20,
+        "pesoAtomico": 40.078,
+        "grupo": "Metal alcalinotérreo",
+        "periodo": 4
+    },
+    "Sc": {
+        "nombre": "Escandio",
+        "simbolo": "Sc",
+        "numeroAtomico": 21,
+        "pesoAtomico": 44.956,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Ti": {
+        "nombre": "Titanio",
+        "simbolo": "Ti",
+        "numeroAtomico": 22,
+        "pesoAtomico": 47.867,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "V": {
+        "nombre": "Vanadio",
+        "simbolo": "V",
+        "numeroAtomico": 23,
+        "pesoAtomico": 50.942,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Cr": {
+        "nombre": "Cromo",
+        "simbolo": "Cr",
+        "numeroAtomico": 24,
+        "pesoAtomico": 51.996,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Mn": {
+        "nombre": "Manganeso",
+        "simbolo": "Mn",
+        "numeroAtomico": 25,
+        "pesoAtomico": 54.938,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Fe": {
+        "nombre": "Hierro",
+        "simbolo": "Fe",
+        "numeroAtomico": 26,
+        "pesoAtomico": 55.845,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Ni": {
+        "nombre": "Níquel",
+        "simbolo": "Ni",
+        "numeroAtomico": 27,
+        "pesoAtomico": 58.693,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Co": {
+        "nombre": "Cobalto",
+        "simbolo": "Co",
+        "numeroAtomico": 28,
+        "pesoAtomico": 58.933,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Cu": {
+        "nombre": "Cobre",
+        "simbolo": "Cu",
+        "numeroAtomico": 29,
+        "pesoAtomico": 63.546,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Zn": {
+        "nombre": "Zinc",
+        "simbolo": "Zn",
+        "numeroAtomico": 30,
+        "pesoAtomico": 65.38,
+        "grupo": "Metal de transición",
+        "periodo": 4
+    },
+    "Ga": {
+        "nombre": "Galio",
+        "simbolo": "Ga",
+        "numeroAtomico": 31,
+        "pesoAtomico": 69.723,
+        "grupo": "Metal",
+        "periodo": 4
+    },
+    "Ge": {
+        "nombre": "Germanio",
+        "simbolo": "Ge",
+        "numeroAtomico": 32,
+        "pesoAtomico": 72.63,
+        "grupo": "Metal metaloide",
+        "periodo": 4
+    },
+    "As": {
+        "nombre": "Arsénico",
+        "simbolo": "As",
+        "numeroAtomico": 33,
+        "pesoAtomico": 74.922,
+        "grupo": "Metal metaloide",
+        "periodo": 4
+    },
+    "Se": {
+        "nombre": "Selenio",
+        "simbolo": "Se",
+        "numeroAtomico": 34,
+        "pesoAtomico": 78.971,
+        "grupo": "No metal",
+        "periodo": 4
+    },
+    "Br": {
+        "nombre": "Bromo",
+        "simbolo": "Br",
+        "numeroAtomico": 35,
+        "pesoAtomico": 79.904,
+        "grupo": "Halógeno",
+        "periodo": 4
+    },
+    "Kr": {
+        "nombre": "Kriptón",
+        "simbolo": "Kr",
+        "numeroAtomico": 36,
+        "pesoAtomico": 83.798,
+        "grupo": "Gas noble",
+        "periodo": 4
+    },
+    "Rb": {
+        "nombre": "Rubidio",
+        "simbolo": "Rb",
+        "numeroAtomico": 37,
+        "pesoAtomico": 85.468,
+        "grupo": "Metal alcalino",
+        "periodo": 5
+    },
+    "Sr": {
+        "nombre": "Estroncio",
+        "simbolo": "Sr",
+        "numeroAtomico": 38,
+        "pesoAtomico": 87.62,
+        "grupo": "Metal alcalinotérreo",
+        "periodo": 5
+    },
+    "Y": {
+        "nombre": "Itrio",
+        "simbolo": "Y",
+        "numeroAtomico": 39,
+        "pesoAtomico": 88.906,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Zr": {
+        "nombre": "Circonio",
+        "simbolo": "Zr",
+        "numeroAtomico": 40,
+        "pesoAtomico": 91.224,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Nb": {
+        "nombre": "Niobio",
+        "simbolo": "Nb",
+        "numeroAtomico": 41,
+        "pesoAtomico": 92.906,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Mo": {
+        "nombre": "Molibdeno",
+        "simbolo": "Mo",
+        "numeroAtomico": 42,
+        "pesoAtomico": 95.95,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Tc": {
+        "nombre": "Tecnecio",
+        "simbolo": "Tc",
+        "numeroAtomico": 43,
+        "pesoAtomico": 98.0,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Ru": {
+        "nombre": "Rutenio",
+        "simbolo": "Ru",
+        "numeroAtomico": 44,
+        "pesoAtomico": 101.1,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Rh": {
+        "nombre": "Rodio",
+        "simbolo": "Rh",
+        "numeroAtomico": 45,
+        "pesoAtomico": 102.9,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Pd": {
+        "nombre": "Paladio",
+        "simbolo": "Pd",
+        "numeroAtomico": 46,
+        "pesoAtomico": 106.4,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Ag": {
+        "nombre": "Plata",
+        "simbolo": "Ag",
+        "numeroAtomico": 47,
+        "pesoAtomico": 107.9,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "Cd": {
+        "nombre": "Cadmio",
+        "simbolo": "Cd",
+        "numeroAtomico": 48,
+        "pesoAtomico": 112.4,
+        "grupo": "Metal de transición",
+        "periodo": 5
+    },
+    "In": {
+        "nombre": "Indio",
+        "simbolo": "In",
+        "numeroAtomico": 49,
+        "pesoAtomico": 114.8,
+        "grupo": "Metal",
+        "periodo": 5
+    },
+    "Sn": {
+        "nombre": "Estaño",
+        "simbolo": "Sn",
+        "numeroAtomico": 50,
+        "pesoAtomico": 118.7,
+        "grupo": "Metal",
+        "periodo": 5
+    },
+    "Sb": {
+        "nombre": "Antimonio",
+        "simbolo": "Sb",
+        "numeroAtomico": 51,
+        "pesoAtomico": 121.8,
+        "grupo": "Metal metaloide",
+        "periodo": 5
+    },
+    "Te": {
+        "nombre": "Telurio",
+        "simbolo": "Te",
+        "numeroAtomico": 52,
+        "pesoAtomico": 127.6,
+        "grupo": "Metal metaloide",
+        "periodo": 5
+    },
+    "I": {
+        "nombre": "Yodo",
+        "simbolo": "I",
+        "numeroAtomico": 53,
+        "pesoAtomico": 126.9,
+        "grupo": "Halógeno",
+        "periodo": 5
+    },
+    "Xe": {
+        "nombre": "Xenón",
+        "simbolo": "Xe",
+        "numeroAtomico": 54,
+        "pesoAtomico": 131.3,
+        "grupo": "Gas noble",
+        "periodo": 5
+    },
+    "Cs": {
+        "nombre": "Cesio",
+        "simbolo": "Cs",
+        "numeroAtomico": 55,
+        "pesoAtomico": 132.9,
+        "grupo": "Metal alcalino",
+        "periodo": 6
+    },
+    "Ba": {
+        "nombre": "Bario",
+        "simbolo": "Ba",
+        "numeroAtomico": 56,
+        "pesoAtomico": 137.3,
+        "grupo": "Metal alcalinotérreo",
+        "periodo": 6
+    },
+    "La": {
+        "nombre": "Lantano",
+        "simbolo": "La",
+        "numeroAtomico": 57,
+        "pesoAtomico": 138.9,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Ce": {
+        "nombre": "Cerio",
+        "simbolo": "Ce",
+        "numeroAtomico": 58,
+        "pesoAtomico": 140.1,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Pr": {
+        "nombre": "Praseodimio",
+        "simbolo": "Pr",
+        "numeroAtomico": 59,
+        "pesoAtomico": 140.9,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Nd": {
+        "nombre": "Neodimio",
+        "simbolo": "Nd",
+        "numeroAtomico": 60,
+        "pesoAtomico": 144.2,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Pm": {
+        "nombre": "Prometio",
+        "simbolo": "Pm",
+        "numeroAtomico": 61,
+        "pesoAtomico": 145.0,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Sm": {
+        "nombre": "Samario",
+        "simbolo": "Sm",
+        "numeroAtomico": 62,
+        "pesoAtomico": 150.4,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Eu": {
+        "nombre": "Europio",
+        "simbolo": "Eu",
+        "numeroAtomico": 63,
+        "pesoAtomico": 152.0,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Gd": {
+        "nombre": "Gadolinio",
+        "simbolo": "Gd",
+        "numeroAtomico": 64,
+        "pesoAtomico": 157.3,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Tb": {
+        "nombre": "Terbio",
+        "simbolo": "Tb",
+        "numeroAtomico": 65,
+        "pesoAtomico": 158.9,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Dy": {
+        "nombre": "Disprosio",
+        "simbolo": "Dy",
+        "numeroAtomico": 66,
+        "pesoAtomico": 162.5,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Ho": {
+        "nombre": "Holmio",
+        "simbolo": "Ho",
+        "numeroAtomico": 67,
+        "pesoAtomico": 164.9,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Er": {
+        "nombre": "Erbio",
+        "simbolo": "Er",
+        "numeroAtomico": 68,
+        "pesoAtomico": 167.3,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Tm": {
+        "nombre": "Tulio",
+        "simbolo": "Tm",
+        "numeroAtomico": 69,
+        "pesoAtomico": 168.9,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Yb": {
+        "nombre": "Iterbio",
+        "simbolo": "Yb",
+        "numeroAtomico": 70,
+        "pesoAtomico": 173.0,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Lu": {
+        "nombre": "Lutecio",
+        "simbolo": "Lu",
+        "numeroAtomico": 71,
+        "pesoAtomico": 175.0,
+        "grupo": "Lantánido",
+        "periodo": 6
+    },
+    "Hf": {
+        "nombre": "Hafnio",
+        "simbolo": "Hf",
+        "numeroAtomico": 72,
+        "pesoAtomico": 178.5,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Ta": {
+        "nombre": "Tantalio",
+        "simbolo": "Ta",
+        "numeroAtomico": 73,
+        "pesoAtomico": 180.9,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "W": {
+        "nombre": "Tungsteno",
+        "simbolo": "W",
+        "numeroAtomico": 74,
+        "pesoAtomico": 183.8,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Re": {
+        "nombre": "Renio",
+        "simbolo": "Re",
+        "numeroAtomico": 75,
+        "pesoAtomico": 186.2,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Os": {
+        "nombre": "Osmio",
+        "simbolo": "Os",
+        "numeroAtomico": 76,
+        "pesoAtomico": 190.2,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Ir": {
+        "nombre": "Iridio",
+        "simbolo": "Ir",
+        "numeroAtomico": 77,
+        "pesoAtomico": 192.2,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Pt": {
+        "nombre": "Platino",
+        "simbolo": "Pt",
+        "numeroAtomico": 78,
+        "pesoAtomico": 195.1,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Au": {
+        "nombre": "Oro",
+        "simbolo": "Au",
+        "numeroAtomico": 79,
+        "pesoAtomico": 197.0,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Hg": {
+        "nombre": "Mercurio",
+        "simbolo": "Hg",
+        "numeroAtomico": 80,
+        "pesoAtomico": 200.6,
+        "grupo": "Metal de transición",
+        "periodo": 6
+    },
+    "Tl": {
+        "nombre": "Talio",
+        "simbolo": "Tl",
+        "numeroAtomico": 81,
+        "pesoAtomico": 204.4,
+        "grupo": "Metal",
+        "periodo": 6
+    },
+    "Pb": {
+        "nombre": "Plomo",
+        "simbolo": "Pb",
+        "numeroAtomico": 82,
+        "pesoAtomico": 207.2,
+        "grupo": "Metal",
+        "periodo": 6
+    },
+    "Bi": {
+        "nombre": "Bismuto",
+        "simbolo": "Bi",
+        "numeroAtomico": 83,
+        "pesoAtomico": 208.9,
+        "grupo": "Metal",
+        "periodo": 6
+    },
+    "Th": {
+        "nombre": "Torio",
+        "simbolo": "Th",
+        "numeroAtomico": 90,
+        "pesoAtomico": 232.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Pa": {
+        "nombre": "Protactinio",
+        "simbolo": "Pa",
+        "numeroAtomico": 91,
+        "pesoAtomico": 231.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "U": {
+        "nombre": "Uranio",
+        "simbolo": "U",
+        "numeroAtomico": 92,
+        "pesoAtomico": 238.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Np": {
+        "nombre": "Neptunio",
+        "simbolo": "Np",
+        "numeroAtomico": 93,
+        "pesoAtomico": 237.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Pu": {
+        "nombre": "Plutonio",
+        "simbolo": "Pu",
+        "numeroAtomico": 94,
+        "pesoAtomico": 244.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Am": {
+        "nombre": "Americio",
+        "simbolo": "Am",
+        "numeroAtomico": 95,
+        "pesoAtomico": 243.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Cm": {
+        "nombre": "Curio",
+        "simbolo": "Cm",
+        "numeroAtomico": 96,
+        "pesoAtomico": 247.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Bk": {
+        "nombre": "Berkelio",
+        "simbolo": "Bk",
+        "numeroAtomico": 97,
+        "pesoAtomico": 247.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Cf": {
+        "nombre": "Californio",
+        "simbolo": "Cf",
+        "numeroAtomico": 98,
+        "pesoAtomico": 251.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Es": {
+        "nombre": "Einstenio",
+        "simbolo": "Es",
+        "numeroAtomico": 99,
+        "pesoAtomico": 252.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Fm": {
+        "nombre": "Fermio",
+        "simbolo": "Fm",
+        "numeroAtomico": 100,
+        "pesoAtomico": 257.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Md": {
+        "nombre": "Mendelevio",
+        "simbolo": "Md",
+        "numeroAtomico": 101,
+        "pesoAtomico": 258.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "No": {
+        "nombre": "Nobelio",
+        "simbolo": "No",
+        "numeroAtomico": 102,
+        "pesoAtomico": 259.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Lr": {
+        "nombre": "Lawrencio",
+        "simbolo": "Lr",
+        "numeroAtomico": 103,
+        "pesoAtomico": 262.0,
+        "grupo": "Actínido",
+        "periodo": 7
+    },
+    "Rf": {
+        "nombre": "Rutherfordio",
+        "simbolo": "Rf",
+        "numeroAtomico": 104,
+        "pesoAtomico": 267.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Db": {
+        "nombre": "Dubnio",
+        "simbolo": "Db",
+        "numeroAtomico": 105,
+        "pesoAtomico": 270.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Sg": {
+        "nombre": "Seaborgio",
+        "simbolo": "Sg",
+        "numeroAtomico": 106,
+        "pesoAtomico": 271.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Bh": {
+        "nombre": "Bohrio",
+        "simbolo": "Bh",
+        "numeroAtomico": 107,
+        "pesoAtomico": 270.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Hs": {
+        "nombre": "Hassio",
+        "simbolo": "Hs",
+        "numeroAtomico": 108,
+        "pesoAtomico": 277.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Mt": {
+        "nombre": "Meitnerio",
+        "simbolo": "Mt",
+        "numeroAtomico": 109,
+        "pesoAtomico": 276.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Ds": {
+        "nombre": "Darmstadtio",
+        "simbolo": "Ds",
+        "numeroAtomico": 110,
+        "pesoAtomico": 281.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Rg": {
+        "nombre": "Roentgenio",
+        "simbolo": "Rg",
+        "numeroAtomico": 111,
+        "pesoAtomico": 280.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Cn": {
+        "nombre": "Copernicio",
+        "simbolo": "Cn",
+        "numeroAtomico": 112,
+        "pesoAtomico": 285.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Nh": {
+        "nombre": "Nihonio",
+        "simbolo": "Nh",
+        "numeroAtomico": 113,
+        "pesoAtomico": 284.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Fl": {
+        "nombre": "Flerovio",
+        "simbolo": "Fl",
+        "numeroAtomico": 114,
+        "pesoAtomico": 289.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Mc": {
+        "nombre": "Moscovio",
+        "simbolo": "Mc",
+        "numeroAtomico": 115,
+        "pesoAtomico": 288.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Lv": {
+        "nombre": "Livermorio",
+        "simbolo": "Lv",
+        "numeroAtomico": 116,
+        "pesoAtomico": 293.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Ts": {
+        "nombre": "Teneso",
+        "simbolo": "Ts",
+        "numeroAtomico": 117,
+        "pesoAtomico": 294.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    },
+    "Og": {
+        "nombre": "Oganesón",
+        "simbolo": "Og",
+        "numeroAtomico": 118,
+        "pesoAtomico": 294.0,
+        "grupo": "Metal de transición",
+        "periodo": 7
+    }
+}
